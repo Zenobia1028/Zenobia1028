@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zenobia1028
-- 👀 I’m interested in Unity 3D
-- 🌱 I’m currently learning Mechanical engineering virtual prototyping
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in HMI Design & Evaluation
+- 🌱 I’m currently learning Mechanical engineering Methods and Tools for Product Design
+- 💞️ I’m looking to collaborate on HCI 
 - 📫 How to reach me ...
 
 <!---
